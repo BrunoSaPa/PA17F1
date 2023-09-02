@@ -1,0 +1,14 @@
+C:\Users\BRUNO\Documents\PA17F1\PA17F1\Practica-2-Conversion-de-bytes-a-String\bin\Debug\net7.0\Practica-2-Conversion-de-bytes-a-String.exe
+C:\Users\BRUNO\Documents\PA17F1\PA17F1\Practica-2-Conversion-de-bytes-a-String\bin\Debug\net7.0\Practica-2-Conversion-de-bytes-a-String.deps.json
+C:\Users\BRUNO\Documents\PA17F1\PA17F1\Practica-2-Conversion-de-bytes-a-String\bin\Debug\net7.0\Practica-2-Conversion-de-bytes-a-String.runtimeconfig.json
+C:\Users\BRUNO\Documents\PA17F1\PA17F1\Practica-2-Conversion-de-bytes-a-String\bin\Debug\net7.0\Practica-2-Conversion-de-bytes-a-String.dll
+C:\Users\BRUNO\Documents\PA17F1\PA17F1\Practica-2-Conversion-de-bytes-a-String\bin\Debug\net7.0\Practica-2-Conversion-de-bytes-a-String.pdb
+C:\Users\BRUNO\Documents\PA17F1\PA17F1\Practica-2-Conversion-de-bytes-a-String\obj\Debug\net7.0\Practica-2-Conversion-de-bytes-a-String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRUNO\Documents\PA17F1\PA17F1\Practica-2-Conversion-de-bytes-a-String\obj\Debug\net7.0\Practica-2-Conversion-de-bytes-a-String.AssemblyInfoInputs.cache
+C:\Users\BRUNO\Documents\PA17F1\PA17F1\Practica-2-Conversion-de-bytes-a-String\obj\Debug\net7.0\Practica-2-Conversion-de-bytes-a-String.AssemblyInfo.cs
+C:\Users\BRUNO\Documents\PA17F1\PA17F1\Practica-2-Conversion-de-bytes-a-String\obj\Debug\net7.0\Practica-2-Conversion-de-bytes-a-String.csproj.CoreCompileInputs.cache
+C:\Users\BRUNO\Documents\PA17F1\PA17F1\Practica-2-Conversion-de-bytes-a-String\obj\Debug\net7.0\Practica-2-Conversion-de-bytes-a-String.dll
+C:\Users\BRUNO\Documents\PA17F1\PA17F1\Practica-2-Conversion-de-bytes-a-String\obj\Debug\net7.0\refint\Practica-2-Conversion-de-bytes-a-String.dll
+C:\Users\BRUNO\Documents\PA17F1\PA17F1\Practica-2-Conversion-de-bytes-a-String\obj\Debug\net7.0\Practica-2-Conversion-de-bytes-a-String.pdb
+C:\Users\BRUNO\Documents\PA17F1\PA17F1\Practica-2-Conversion-de-bytes-a-String\obj\Debug\net7.0\Practica-2-Conversion-de-bytes-a-String.genruntimeconfig.cache
+C:\Users\BRUNO\Documents\PA17F1\PA17F1\Practica-2-Conversion-de-bytes-a-String\obj\Debug\net7.0\ref\Practica-2-Conversion-de-bytes-a-String.dll
