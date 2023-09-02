@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Practica-1-Tabla-de-variables/1.0.0": {
+        "runtime": {
+          "Practica-1-Tabla-de-variables.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practica-1-Tabla-de-variables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

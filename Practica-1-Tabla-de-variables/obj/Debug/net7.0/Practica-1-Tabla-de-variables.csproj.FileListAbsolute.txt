@@ -1,0 +1,14 @@
+C:\Users\BRUNO\Documents\PA17F1\Practica-1-Tabla-de-variables\bin\Debug\net7.0\Practica-1-Tabla-de-variables.exe
+C:\Users\BRUNO\Documents\PA17F1\Practica-1-Tabla-de-variables\bin\Debug\net7.0\Practica-1-Tabla-de-variables.deps.json
+C:\Users\BRUNO\Documents\PA17F1\Practica-1-Tabla-de-variables\bin\Debug\net7.0\Practica-1-Tabla-de-variables.runtimeconfig.json
+C:\Users\BRUNO\Documents\PA17F1\Practica-1-Tabla-de-variables\bin\Debug\net7.0\Practica-1-Tabla-de-variables.dll
+C:\Users\BRUNO\Documents\PA17F1\Practica-1-Tabla-de-variables\bin\Debug\net7.0\Practica-1-Tabla-de-variables.pdb
+C:\Users\BRUNO\Documents\PA17F1\Practica-1-Tabla-de-variables\obj\Debug\net7.0\Practica-1-Tabla-de-variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRUNO\Documents\PA17F1\Practica-1-Tabla-de-variables\obj\Debug\net7.0\Practica-1-Tabla-de-variables.AssemblyInfoInputs.cache
+C:\Users\BRUNO\Documents\PA17F1\Practica-1-Tabla-de-variables\obj\Debug\net7.0\Practica-1-Tabla-de-variables.AssemblyInfo.cs
+C:\Users\BRUNO\Documents\PA17F1\Practica-1-Tabla-de-variables\obj\Debug\net7.0\Practica-1-Tabla-de-variables.csproj.CoreCompileInputs.cache
+C:\Users\BRUNO\Documents\PA17F1\Practica-1-Tabla-de-variables\obj\Debug\net7.0\Practica-1-Tabla-de-variables.dll
+C:\Users\BRUNO\Documents\PA17F1\Practica-1-Tabla-de-variables\obj\Debug\net7.0\refint\Practica-1-Tabla-de-variables.dll
+C:\Users\BRUNO\Documents\PA17F1\Practica-1-Tabla-de-variables\obj\Debug\net7.0\Practica-1-Tabla-de-variables.pdb
+C:\Users\BRUNO\Documents\PA17F1\Practica-1-Tabla-de-variables\obj\Debug\net7.0\Practica-1-Tabla-de-variables.genruntimeconfig.cache
+C:\Users\BRUNO\Documents\PA17F1\Practica-1-Tabla-de-variables\obj\Debug\net7.0\ref\Practica-1-Tabla-de-variables.dll
