@@ -11,7 +11,6 @@ for (int i = 0; i < byteArray.Length; i++){
     Write(format: "{0}{1}", arg0:byteArray[i].ToString("X2"), arg1:" ");
 }
 
-
 WriteLine("\n");
 
 //print array as base 64 string
