@@ -1,6 +1,7 @@
 ﻿//declaration of array and random
 byte[] byteArray = new byte[128];
 var rand = new Random();
+
 //fill array with random numbers
 for (int i = 0; i < byteArray.Length; i++) {
      byteArray[i] = (byte)rand.Next(256);

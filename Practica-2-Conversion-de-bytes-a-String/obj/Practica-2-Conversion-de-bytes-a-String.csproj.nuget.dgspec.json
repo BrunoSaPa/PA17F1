@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\Practica-2-Conversion-de-bytes-a-String\\Practica-2-Conversion-de-bytes-a-String.csproj": {}
+    "c:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\Practica-2-Conversion-de-bytes-a-String\\Practica-2-Conversion-de-bytes-a-String.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\Practica-2-Conversion-de-bytes-a-String\\Practica-2-Conversion-de-bytes-a-String.csproj": {
+    "c:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\Practica-2-Conversion-de-bytes-a-String\\Practica-2-Conversion-de-bytes-a-String.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\Practica-2-Conversion-de-bytes-a-String\\Practica-2-Conversion-de-bytes-a-String.csproj",
+        "projectUniqueName": "c:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\Practica-2-Conversion-de-bytes-a-String\\Practica-2-Conversion-de-bytes-a-String.csproj",
         "projectName": "Practica-2-Conversion-de-bytes-a-String",
-        "projectPath": "C:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\Practica-2-Conversion-de-bytes-a-String\\Practica-2-Conversion-de-bytes-a-String.csproj",
+        "projectPath": "c:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\Practica-2-Conversion-de-bytes-a-String\\Practica-2-Conversion-de-bytes-a-String.csproj",
         "packagesPath": "C:\\Users\\BRUNO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\Practica-2-Conversion-de-bytes-a-String\\obj\\",
+        "outputPath": "c:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\Practica-2-Conversion-de-bytes-a-String\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BRUNO\\AppData\\Roaming\\NuGet\\NuGet.Config"

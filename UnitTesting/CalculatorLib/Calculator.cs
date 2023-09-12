@@ -1,22 +1,42 @@
-﻿namespace CalculatorLib;
+﻿using System.Diagnostics;
+using System.Runtime.Serialization;
 
-/// <summary>
-/// Unit Testng: se basa en probar pequeños pedazos de codigo.
-/// I can perform multiple and different types of unit testing
-/// Integration Testing:Se trata de integrar todas y cada una de las partes de un solo software.
-/// Usada en una gran cantidad de piezas que trabajan juntas.
-/// System Testing:Prueba el entorno en el cual se va a correr el software.
-/// Performace testing: Prueba el tiempo en el que tarda el sistema en mostrarte lo que necesitas
-/// Load Testing: Stress the computer AF.
-/// User Acceptance: If the user is happy, done, else , you cry.
-/// 
-/// </summary>
+namespace CalculatorLib;
+
 
 public class Calculator
 {
-    
     public double Add(double a, double b){
-        
+        if((a + b) > double.MaxValue){
+            throw new OverflowException("The result overflows");
+        }
+        else if(double.IsPositiveInfinity(a) || double.IsNegativeInfinity(b)){
+            throw new ArithmeticException("Infinite numbers aren't accepted");
+        }
+        else if(double.IsNegative(a + b)){
+            throw new ArgumentOutOfRangeException("The result of the sum should be more than 0");
+        }
+        else if(a == ' ' || b == ' '){
+            throw new InvalidOperationException("One of the parameters doesn't have any value");
+        }
         return a + b;
+    }
+
+    public double Division(double a, double b){
+
+        if(b == 0){
+            throw new DivideByZeroException("Cannot divide by zero");
+        }
+        else if((a / b) > double.MaxValue){
+            throw new OverflowException("The result overflows");
+        }
+        else if(double.IsNaN(a) || double.IsNaN(b)){
+            throw new NotSupportedException("One of the arguments is'nt a number");
+        }
+        else if(double.IsInfinity(a) || double.IsInfinity(b)){
+            throw new FormatException("Infinite numbers aren't accepted");
+        }
+
+        return a / b;
     }
 }
