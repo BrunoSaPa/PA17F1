@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FnGCVOAZxdTkxWfmoUZbdQhuPr/d/ZhRqKC9huPMD5mVhOgaywthFbmtP07+GDom6urydzumz1PC93B69PYkrg==",
+  "dgSpecHash": "KRll91ji/UfFxEFsm9Sv1DLa++PG7lRbQ89c1uX5y4mS6rWrRJu5ZjWWxN6i7H/uIDelJsny4BndOIgbTQSK4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\UnitTesting\\CalculatorLib\\CalculatorLib.csproj",
+  "projectFilePath": "c:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\UnitTesting\\CalculatorLib\\CalculatorLib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BRUNO\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
     "C:\\Users\\BRUNO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\UnitTesting\\CalculatorProgram\\CalculatorProgram.csproj": {}
+    "c:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\UnitTesting\\CalculatorProgram\\CalculatorProgram.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\UnitTesting\\CalculatorLib\\CalculatorLib.csproj": {
+    "c:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\UnitTesting\\CalculatorLib\\CalculatorLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\UnitTesting\\CalculatorLib\\CalculatorLib.csproj",
+        "projectUniqueName": "c:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\UnitTesting\\CalculatorLib\\CalculatorLib.csproj",
         "projectName": "CalculatorLib",
-        "projectPath": "C:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\UnitTesting\\CalculatorLib\\CalculatorLib.csproj",
+        "projectPath": "c:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\UnitTesting\\CalculatorLib\\CalculatorLib.csproj",
         "packagesPath": "C:\\Users\\BRUNO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\UnitTesting\\CalculatorLib\\obj\\",
+        "outputPath": "c:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\UnitTesting\\CalculatorLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BRUNO\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\UnitTesting\\CalculatorProgram\\CalculatorProgram.csproj": {
+    "c:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\UnitTesting\\CalculatorProgram\\CalculatorProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\UnitTesting\\CalculatorProgram\\CalculatorProgram.csproj",
+        "projectUniqueName": "c:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\UnitTesting\\CalculatorProgram\\CalculatorProgram.csproj",
         "projectName": "CalculatorProgram",
-        "projectPath": "C:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\UnitTesting\\CalculatorProgram\\CalculatorProgram.csproj",
+        "projectPath": "c:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\UnitTesting\\CalculatorProgram\\CalculatorProgram.csproj",
         "packagesPath": "C:\\Users\\BRUNO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\UnitTesting\\CalculatorProgram\\obj\\",
+        "outputPath": "c:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\UnitTesting\\CalculatorProgram\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BRUNO\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -93,8 +93,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\UnitTesting\\CalculatorLib\\CalculatorLib.csproj": {
-                "projectPath": "C:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\UnitTesting\\CalculatorLib\\CalculatorLib.csproj"
+              "c:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\UnitTesting\\CalculatorLib\\CalculatorLib.csproj": {
+                "projectPath": "c:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\UnitTesting\\CalculatorLib\\CalculatorLib.csproj"
               }
             }
           }

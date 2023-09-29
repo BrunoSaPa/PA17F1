@@ -1,0 +1,14 @@
+C:\Users\BRUNO\Documents\PA17F1\PA17F1\FileSystems\VowelCountingProgram\bin\Debug\net7.0\VowelCountingProgram.exe
+C:\Users\BRUNO\Documents\PA17F1\PA17F1\FileSystems\VowelCountingProgram\bin\Debug\net7.0\VowelCountingProgram.deps.json
+C:\Users\BRUNO\Documents\PA17F1\PA17F1\FileSystems\VowelCountingProgram\bin\Debug\net7.0\VowelCountingProgram.runtimeconfig.json
+C:\Users\BRUNO\Documents\PA17F1\PA17F1\FileSystems\VowelCountingProgram\bin\Debug\net7.0\VowelCountingProgram.dll
+C:\Users\BRUNO\Documents\PA17F1\PA17F1\FileSystems\VowelCountingProgram\bin\Debug\net7.0\VowelCountingProgram.pdb
+C:\Users\BRUNO\Documents\PA17F1\PA17F1\FileSystems\VowelCountingProgram\obj\Debug\net7.0\VowelCountingProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRUNO\Documents\PA17F1\PA17F1\FileSystems\VowelCountingProgram\obj\Debug\net7.0\VowelCountingProgram.AssemblyInfoInputs.cache
+C:\Users\BRUNO\Documents\PA17F1\PA17F1\FileSystems\VowelCountingProgram\obj\Debug\net7.0\VowelCountingProgram.AssemblyInfo.cs
+C:\Users\BRUNO\Documents\PA17F1\PA17F1\FileSystems\VowelCountingProgram\obj\Debug\net7.0\VowelCountingProgram.csproj.CoreCompileInputs.cache
+C:\Users\BRUNO\Documents\PA17F1\PA17F1\FileSystems\VowelCountingProgram\obj\Debug\net7.0\VowelCountingProgram.dll
+C:\Users\BRUNO\Documents\PA17F1\PA17F1\FileSystems\VowelCountingProgram\obj\Debug\net7.0\refint\VowelCountingProgram.dll
+C:\Users\BRUNO\Documents\PA17F1\PA17F1\FileSystems\VowelCountingProgram\obj\Debug\net7.0\VowelCountingProgram.pdb
+C:\Users\BRUNO\Documents\PA17F1\PA17F1\FileSystems\VowelCountingProgram\obj\Debug\net7.0\VowelCountingProgram.genruntimeconfig.cache
+C:\Users\BRUNO\Documents\PA17F1\PA17F1\FileSystems\VowelCountingProgram\obj\Debug\net7.0\ref\VowelCountingProgram.dll

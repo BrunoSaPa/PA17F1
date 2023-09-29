@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cAT3rW3EUia1Fp9FTKrbLqr3m9HPm4gp06krc3D+k+/HR0ZCqigm6VpKLEu1yaHwqg4REcJUkDstlIC1sqnCPA==",
+  "dgSpecHash": "B+652/dvYKid7kZLNI5JZ1uhTIpZ/XBWr5bOP6ASEJ1yKgMBLOZFC+ECAOiNtsvRrVko5dja7jW8Rsd9xTLhxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\UnitTesting\\CalculatorProgram\\CalculatorProgram.csproj",
+  "projectFilePath": "c:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\UnitTesting\\CalculatorProgram\\CalculatorProgram.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BRUNO\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\BRUNO\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
