@@ -1,25 +1,28 @@
-﻿using static System.IO.Directory; // Create or kill folders
-using static System.IO.Path; // Creates URLS // C://Documentos...
+﻿
 using System.Text.RegularExpressions;
+namespace VowelCountingProgram;
 
-//get path of current directory
-string dir = GetCurrentDirectory();
-//combine directory with the source txt file
-string textFile = Combine(dir, @"..\..","FileSystems","text_files","text.txt");
+
+public class VowelCountingProgram
+{
+
+public void TextProcessor(string? textFile){
+//check if the path file is correct
+if( textFile == null) throw new ArgumentNullException("textFile cannot be null");
+else if(textFile == "") throw new ArgumentException("Argument must not be the empty string");
+else if(!textFile.Contains(".txt")) throw new NotSupportedException($"There file is not a text file (.txt) in {textFile}");
+else if(textFile.Length >= 260) throw new PathTooLongException($"The path {textFile} is too long.");
+else if(!File.Exists(textFile))throw new FileNotFoundException($"The file {textFile} doesn't exist.");
+else{ 
 
 //create reader
 StreamReader textReader = File.OpenText(textFile);
-
 //text contains all the text from the txt file
 string? text = textReader.ReadToEnd();
 textReader.Close();
+//check if the text is empty
+if(text == "") throw new ArgumentException($"The text file {textFile} is  empty");
 
-//send text to be processed
-if(text !=null) textProcessor(text, textFile);
-else WriteLine($"The file {textFile} is null.");
-
-
-static void textProcessor(string text, string textFile){
 //create palindrome variable
 string? Palindrome = null;
 //create another text variable that will later be used to write the last vowels with the last vowel count
@@ -70,7 +73,7 @@ uCount =+ CountVowels(text, 'u');
     }
 
     writeOnFile(replacementText, textFile, aCount, eCount, iCount, oCount, uCount, Palindrome);
-
+}
 }
 
 static void writeOnFile(string replacementText, string textFile, int? aCount,int? eCount,int? iCount,int? oCount,int? uCount, string? Palindrome){
@@ -213,4 +216,5 @@ static bool ItsPalindrome(string s){
             if(s[i] != s[s.Length - (i + 1)]) return false;
         }
         return true;
+}
 }
