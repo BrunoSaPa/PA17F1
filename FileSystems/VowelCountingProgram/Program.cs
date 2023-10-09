@@ -1,12 +1,10 @@
 ﻿
+using System.Net.WebSockets;
 using System.Text.RegularExpressions;
 namespace VowelCountingProgram;
 
-
 public class VowelCountingProgram
-{
-
-public void TextProcessor(string? textFile){
+{public void TextProcessor(string? textFile){
 //check if the path file is correct
 if( textFile == null) throw new ArgumentNullException("textFile cannot be null");
 else if(textFile == "") throw new ArgumentException("Argument must not be the empty string");

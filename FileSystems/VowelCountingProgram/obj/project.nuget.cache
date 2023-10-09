@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BEuivWxDu6M2/mosXQqLBT9xHdxJLoZwh9JOVdF95YXcqhcKgXldIpvU4Np/V84W9m/vCPSNN9+hT2QBvtYnfQ==",
+  "dgSpecHash": "LAnyl8fYQwN6A0+gIGGRTXPZs2nikUPoY+b3DnuNVd2BPbycN/1JrOrxdyv5fAaDC8bku/rrLj3wmVRjYzIT2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\FileSystems\\VowelCountingProgram\\VowelCountingProgram.csproj",
+  "projectFilePath": "c:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\FileSystems\\VowelCountingProgram\\VowelCountingProgram.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

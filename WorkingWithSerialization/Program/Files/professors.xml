@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProfessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Professor fname="SPEEDY" mname="GONZALES" lname="LOPEZ" password="97SDL1FtyYRuTfmeS2vMWw==" salaryacc="AdCoUeKB+z/4cMXzxJ7Vag==" division="Desarrollo de Software">
+    <Subject>
+      <string>DES DE SOFT 1</string>
+    </Subject>
+  </Professor>
+  <Professor fname="PEDRO" mname="PICA" lname="PIEDRAS" password="ovar4wSbrk/s2DuDCxRMFw==" salaryacc="QGjZvDQd8Qbs0Bt1JbK89A==" division="Desarrollo de Software">
+    <Subject>
+      <string>DES DE SOFT 1</string>
+      <string>EMBEBIDOS 2</string>
+    </Subject>
+  </Professor>
+  <Professor fname="LOLA" mname="BUNNY" lname="DN" password="oeyn9p741AUuqNjUSSUpgw==" salaryacc="MjoN9GlWMa9AzurbFBPUTg==" division="Desarrollo de Software">
+    <Subject>
+      <string>DES DE SOFT 1</string>
+      <string>EMBEBIDOS 2</string>
+      <string>WEB 1</string>
+    </Subject>
+  </Professor>
+  <Professor fname="TEST" mname="TEST" lname="TEST" password="IPlHYCIj5MDjQpitTKpnoQ==" salaryacc="a3BsBumlW/82mQrwAbFlEQ==" division="Desarrollo de Software">
+    <Subject>
+      <string>A</string>
+      <string>B</string>
+      <string>C</string>
+    </Subject>
+  </Professor>
+</ArrayOfProfessor>

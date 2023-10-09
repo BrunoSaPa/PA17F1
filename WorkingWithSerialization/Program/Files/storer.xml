@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStorer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Storer fname="Bruno" mname="Sanchez" lname="Padilla" password="OsYvX+IhjjGM2gVo/5Q7NQ==" />
+  <Storer fname="Refugio" mname="Calabazo" lname="Perez" password="bCKwaQbUZdFiQqJOifF38rBf2RW4SvzrSSaXep6xPO0=" />
+</ArrayOfStorer>
