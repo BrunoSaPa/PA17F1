@@ -9,6 +9,7 @@
   
   <ItemGroup>
     <Using Include="System.Console" Static="true" />
+    <ProjectReference Include="../Library/Library.csproj" />
   </ItemGroup>
   
   <ItemGroup>

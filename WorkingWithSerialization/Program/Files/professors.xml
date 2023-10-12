@@ -25,4 +25,9 @@
       <string>C</string>
     </Subject>
   </Professor>
+  <Professor fname="PIMPOLLO" mname="ESMERALDO" lname="PANUCO" password="8tnC75sHhD9+loEJSVkWYw==" salaryacc="fXledh1Yf/QPNs/ZIKy4Ow==" division="Desarrollo de Software">
+    <Subject>
+      <string>PAPIROAS</string>
+    </Subject>
+  </Professor>
 </ArrayOfProfessor>

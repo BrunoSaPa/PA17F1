@@ -15,3 +15,5 @@ C:\Users\BRUNO\Documents\PA17F1\PA17F1\WorkingWithSerialization\Program\obj\Debu
 C:\Users\BRUNO\Documents\PA17F1\PA17F1\WorkingWithSerialization\Program\obj\Debug\net7.0\Program.genruntimeconfig.cache
 C:\Users\BRUNO\Documents\PA17F1\PA17F1\WorkingWithSerialization\Program\obj\Debug\net7.0\ref\Program.dll
 C:\Users\BRUNO\Documents\PA17F1\PA17F1\WorkingWithSerialization\Program\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\BRUNO\Documents\PA17F1\PA17F1\WorkingWithSerialization\Program\bin\Debug\net7.0\Library.dll
+C:\Users\BRUNO\Documents\PA17F1\PA17F1\WorkingWithSerialization\Program\bin\Debug\net7.0\Library.pdb

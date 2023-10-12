@@ -12,6 +12,7 @@ public class VowelCountingProgramUnitTests
     //Arrange
         string? textFile = null;
     //Act
+
         VowelCountingProgram vowelCountingProgram = new();
     //Assert
         var exception = Assert.Throws<ArgumentNullException>(() => vowelCountingProgram.TextProcessor(textFile));

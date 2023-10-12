@@ -1,12 +1,13 @@
 ﻿using static System.Environment;
 using static System.IO.Path;
 using System.Xml.Serialization;
-using library.Shared;
 using System.Text.RegularExpressions;
+using library.Shared;
 
-
+public class Program{
+public static void Main(){
 //create professors list
-HashSet<Professor> professors = new();
+List<Professor>? professors = new();
 var professorComparer = new ProfessorEqualityComparer();
 
 
@@ -22,7 +23,7 @@ List<Storer> storers = new(){
 HashSet<Classroom> classrooms = new();
 
 //Storer variables
-string? StorerName, StorerMiddleName, StorerLastName, StorerPassword;
+
 //Professor variables
 string? ProfessorName, ProfessorMiddleName, ProfessorLastName, ProfessorPassword, SalaryAccount, Group; 
 
@@ -39,11 +40,11 @@ string ClassroomsPathJSON = Combine(CurrentDirectory, "Files", "classrooms.json"
 string storersPathXML = Combine(CurrentDirectory, "Files", "storer.xml");
 string storersPathJSON = Combine(CurrentDirectory, "Files", "storer.json");
 //serialize current storers, since these are hard coded and won't change
-SerializeStorerXML(storersPathXML);
-SerializeStorerJSON(storersPathJSON);
+SerializeStorerXML(storersPathXML, storers);
+SerializeStorerJSON(storersPathJSON, storers);
 
 
-Login();
+Login(storers);
 while(terminateProgram == false){
 WriteLine("Choose an option. \n 1-Add a Professor \n 2-Edit a Professor \n 3-Delete a Professor\n 4-Change Password\n 5-Generate report\n 6-Login with another Storer\n 7-Exit");
 int? answer = int.Parse(ReadLine());
@@ -120,8 +121,8 @@ for(int i = 0; i < amount ; i++){
 Subject.Sort();
 
 //get data from XML file
-if(File.Exists(ProfessorsPathXML))if(DeserializeProfessorsXML(ProfessorsPathXML) is not null)professors = DeserializeProfessorsXML(ProfessorsPathXML);
-if(File.Exists(ClassroomsPathXML))if(DeserializeClassroomsXML(ClassroomsPathXML) is not null)classrooms = DeserializeClassroomsXML(ClassroomsPathXML);
+if(File.Exists(ProfessorsPathXML))if(DeserializeProfessorsXML(ProfessorsPathXML, professors) is not null)professors = DeserializeProfessorsXML(ProfessorsPathXML, professors);
+if(File.Exists(ClassroomsPathXML))if(DeserializeClassroomsXML(ClassroomsPathXML, classrooms) is not null)classrooms = DeserializeClassroomsXML(ClassroomsPathXML, classrooms);
 
 Professor professor = new(ProfessorName,ProfessorMiddleName,ProfessorLastName,ProfessorPassword,SalaryAccount,"Desarrollo de Software",Subject);
     
@@ -151,28 +152,28 @@ classrooms.Add(classroom);
 
 
 //send classrooms to an XML file
-SerializeClassroomsXML(ClassroomsPathXML);
+SerializeClassroomsXML(ClassroomsPathXML, classrooms);
 //send classrooms to a JSON file
-SerializeClassroomsJSON(ClassroomsPathJSON);
+SerializeClassroomsJSON(ClassroomsPathJSON, classrooms);
 
 //send professors to an XML file
-SerializeProfessorsXML(ProfessorsPathXML);
+SerializeProfessorsXML(ProfessorsPathXML, professors);
 //send professors to a JSON file
-SerializeProfessorsJSON(ProfessorsPathJSON);
+SerializeProfessorsJSON(ProfessorsPathJSON, professors);
 break;
 }
 //Edit Professor
 case 2:{
 //get data from XML files
 if(File.Exists(ProfessorsPathXML)){
-if(DeserializeProfessorsXML(ProfessorsPathXML) is not null)professors = DeserializeProfessorsXML(ProfessorsPathXML);
+if(DeserializeProfessorsXML(ProfessorsPathXML, professors) is not null)professors = DeserializeProfessorsXML(ProfessorsPathXML, professors);
 }
 else {
     WriteLine("There is no one to edit.");
 break;
 }
 if(File.Exists(ClassroomsPathXML)){
-if(DeserializeClassroomsXML(ClassroomsPathXML) is not null)classrooms = DeserializeClassroomsXML(ClassroomsPathXML);
+if(DeserializeClassroomsXML(ClassroomsPathXML, classrooms) is not null)classrooms = DeserializeClassroomsXML(ClassroomsPathXML, classrooms);
 }
 else {
     WriteLine("There is no one to edit.");
@@ -190,10 +191,10 @@ SalaryAccToEdit = ReadLine();
 Clear();
 //Check if that professor exist
 }
-}while(!ProfessorExist(SalaryAccToEdit));
+}while(!ProfessorExist(SalaryAccToEdit, professors));
 
 //Get data to edit and edit the file
-EditProfessor(SalaryAccToEdit);
+EditProfessor(SalaryAccToEdit, professors, classrooms);
 
 break;
 }
@@ -201,14 +202,14 @@ break;
 case 3:{
 //get data from XML files
 if(File.Exists(ProfessorsPathXML)){
-if(DeserializeProfessorsXML(ProfessorsPathXML) is not null)professors = DeserializeProfessorsXML(ProfessorsPathXML);
+if(DeserializeProfessorsXML(ProfessorsPathXML, professors) is not null)professors = DeserializeProfessorsXML(ProfessorsPathXML, professors);
 }
 else {
     WriteLine("There is no one to delete.");
 break;
 }
 if(File.Exists(ClassroomsPathXML)){
-if(DeserializeClassroomsXML(ClassroomsPathXML) is not null)classrooms = DeserializeClassroomsXML(ClassroomsPathXML);
+if(DeserializeClassroomsXML(ClassroomsPathXML, classrooms) is not null)classrooms = DeserializeClassroomsXML(ClassroomsPathXML, classrooms);
 }
 else {
     WriteLine("There is no one to delete.");
@@ -227,20 +228,20 @@ SalaryAccToDelete = ReadLine();
 Clear();
 //Check if that professor exist
 }
-}while(!ProfessorExist(SalaryAccToDelete));
-DeleteProfessor(SalaryAccToDelete);
+}while(!ProfessorExist(SalaryAccToDelete, professors));
+DeleteProfessor(SalaryAccToDelete, professors, classrooms);
 
 
 //send data to files
 //send classrooms to an XML file
-SerializeClassroomsXML(ClassroomsPathXML);
+SerializeClassroomsXML(ClassroomsPathXML, classrooms);
 //send classrooms to a JSON file
-SerializeClassroomsJSON(ClassroomsPathJSON);
+SerializeClassroomsJSON(ClassroomsPathJSON, classrooms);
 
 //send professors to an XML file
-SerializeProfessorsXML(ProfessorsPathXML);
+SerializeProfessorsXML(ProfessorsPathXML, professors);
 //send professors to a JSON file
-SerializeProfessorsJSON(ProfessorsPathJSON);
+SerializeProfessorsJSON(ProfessorsPathJSON, professors);
 break;
 }
 //Change password
@@ -257,7 +258,7 @@ switch (res){
 case 1:{
     //get data from XML files
     if(File.Exists(storersPathXML)){
-    if(DeserializeStorerXML(storersPathXML) is not null)storers = DeserializeStorerXML(storersPathXML);
+    if(DeserializeStorerXML(storersPathXML, storers) is not null)storers = DeserializeStorerXML(storersPathXML, storers);
     }
     else {
         WriteLine("There is no one to change password.");
@@ -287,22 +288,22 @@ case 1:{
     storers.Add(storer);
 
     //serialize data
-    SerializeStorerXML(storersPathXML);
-    SerializeStorerJSON(storersPathJSON);
+    SerializeStorerXML(storersPathXML, storers);
+    SerializeStorerJSON(storersPathJSON, storers);
 
     break;
 }
 case 2:{
     //get data from XML files
     if(File.Exists(ProfessorsPathXML)){
-    if(DeserializeProfessorsXML(ProfessorsPathXML) is not null)professors = DeserializeProfessorsXML(ProfessorsPathXML);
+    if(DeserializeProfessorsXML(ProfessorsPathXML, professors) is not null)professors = DeserializeProfessorsXML(ProfessorsPathXML, professors);
     }
     else {
         WriteLine("There is no one to change password.");
     break;
     }
     if(File.Exists(ClassroomsPathXML)){
-    if(DeserializeClassroomsXML(ClassroomsPathXML) is not null)classrooms = DeserializeClassroomsXML(ClassroomsPathXML);
+    if(DeserializeClassroomsXML(ClassroomsPathXML, classrooms) is not null)classrooms = DeserializeClassroomsXML(ClassroomsPathXML, classrooms);
     }
     else {
         WriteLine("There is no one to change password.");
@@ -322,8 +323,8 @@ case 2:{
     Clear();
     //Check if that professor exist
     }
-    }while(!ProfessorExist(SalaryAccToUpdate));
-    UpdateProfessorPassword(SalaryAccToUpdate);
+    }while(!ProfessorExist(SalaryAccToUpdate, professors));
+    UpdateProfessorPassword(SalaryAccToUpdate, professors, classrooms);
     break;
 }
 case 3:{
@@ -334,9 +335,9 @@ break;
 }
 //Generate reports
 case 5:{
-HashSet<Professor> professorsXMl = new();
+List<Professor> professorsXMl = new();
 HashSet<Classroom> classroomsXML = new();
-HashSet<Professor> professorsJSON = new();
+List<Professor> professorsJSON = new();
 HashSet<Classroom> classroomsJSON = new();
 
 //get data from Json files
@@ -357,14 +358,14 @@ break;
 
 //get data from XML files
 if(File.Exists(ProfessorsPathXML)){
-if(DeserializeProfessorsXML(ProfessorsPathXML) is not null)professorsXMl = DeserializeProfessorsXML(ProfessorsPathXML);
+if(DeserializeProfessorsXML(ProfessorsPathXML, professors) is not null)professorsXMl = DeserializeProfessorsXML(ProfessorsPathXML, professors);
 }
 else {
     WriteLine("There no Professors yet.");
 break;
 }
 if(File.Exists(ClassroomsPathXML)){
-if(DeserializeClassroomsXML(ClassroomsPathXML) is not null)classroomsXML = DeserializeClassroomsXML(ClassroomsPathXML);
+if(DeserializeClassroomsXML(ClassroomsPathXML, classrooms) is not null)classroomsXML = DeserializeClassroomsXML(ClassroomsPathXML, classrooms);
 }
 else {
     WriteLine("There no Professors yet.");
@@ -372,122 +373,45 @@ break;
 }
 
 
-WriteLine(" 1-Show all Professors by the Name  \n 2-Show Passwords \n 3-Show Salary Accounts \n 4-Show professors by group\n 5-Show all subjects in Alphabetic order\n 6-Go back");
+WriteLine("Make reports by the following options\n  1-Professors by the Name  \n 2-By Passwords \n 3-By Salary Accounts \n 4-By Division\n 5-By Subjects \n 6-Go back");
 int res = int.Parse(ReadLine());
 Clear();
 while(!(res == 1 || res == 2 || res == 3|| res == 4 || res == 5 || res == 6)){
-WriteLine("Choose a valid number\n  1-Show all Professors by the Name  \n 2-Show Passwords \n 3-Show Salary Accounts \n 4-Show professors by group\n 5-Show all subjects in Alphabetic order\n 6-Go back");
+WriteLine("Choose a valid number\n 1-Professors by the Name  \n 2-By Passwords \n 3-By Salary Accounts \n 4-By Division\n 5-By Subjects \n 6-Go back");
 res = int.Parse(ReadLine());
 Clear();
 }
 switch(res){
     case 1:{
-        WriteLine("Professors in the XML File:");
-        WriteLine($"{"Name",-10} {"Middle Name",-12} {"Last Name",-12}");
-        foreach(Professor p in professorsXMl){
-            WriteLine($"{p.Name,-10} {p.MiddleName,-12} {p.LastName,-12}");
-        }
-        WriteLine("\n\nProfessors in the JSON File:");
-        WriteLine($"{"Name",-10} {"Middle Name",-12} {"Last Name",-12}");
-        foreach(Professor p in professorsJSON){
-            WriteLine($"{p.Name,-10} {p.MiddleName,-12} {p.LastName,-12}");
-        }
-
-        WriteLine("Press enter to continue");
-        ReadLine();
-        Clear();
+        GenerateReport("Name",professors);
         break;
     }
     case 2:{
-        WriteLine("Professors passwords in the XML File:");
-        WriteLine($"{"Name",-10} {"Middle Name",-12} {"Last Name",-12} {"Password",-10}");
-        foreach(Professor p in professorsXMl){
-        WriteLine($"{p.Name,-10} {p.MiddleName,-12} {p.LastName,-12} {p.GetDecryptedPassword(),-10}");
-        }
-        WriteLine("\n\nProfessors passwords in the JSON File:");
-        WriteLine($"{"Name",-10} {"Middle Name",-12} {"Last Name",-12} {"Password",-10}");
-        foreach(Professor p in professorsJSON){
-        WriteLine($"{p.Name,-10} {p.MiddleName,-12} {p.LastName,-12} {p.GetDecryptedPassword(),-10}");
-
-        }
-
-        WriteLine("Press enter to continue");
-        ReadLine();
-        Clear();
+        GenerateReport("Password",professors);
         break;
     }
     case 3:{
-        WriteLine("Professors Salary Accounts in the XML File:");
-        WriteLine($"{"Name",-10} {"Middle Name",-12} {"Last Name",-12} {"Salary Acc",-10}");
-        foreach(Professor p in professorsXMl){
-        WriteLine($"{p.Name,-10} {p.MiddleName,-12} {p.LastName,-12} {p.GetDecryptedSalaryAccount(),-10}");
-        }
-        WriteLine("\n\nProfessors Salary Accounts in the JSON File:");
-        WriteLine($"{"Name",-10} {"Middle Name",-12} {"Last Name",-12} {"Salary Acc",-10}");
-        foreach(Professor p in professorsJSON){
-        WriteLine($"{p.Name,-10} {p.MiddleName,-12} {p.LastName,-12} {p.GetDecryptedSalaryAccount(),-10}");
-
-        }
-
-        WriteLine("Press enter to continue");
-        ReadLine();
-        Clear();
+        GenerateReport("Salary_Account",professors);
         break;
     }
     case 4:{
-        WriteLine("Professors by group in the XML File:");
-        WriteLine($"{"Group",-6} {"Name",-10} {"Middle Name",-12} {"Last Name",-12}");
-        foreach(Classroom classroom in classroomsXML){
-            WriteLine($"{classroom.Group,-6} {classroom.ProfessorInGroup.Name,-10} {classroom.ProfessorInGroup.MiddleName,-12} {classroom.ProfessorInGroup.LastName,-12}");   
-        }
-
-        WriteLine("\n\nProfessors by group in the JSON File:");
-        WriteLine($"{"Group",-6} {"Name",-10} {"Middle Name",-12} {"Last Name",-12}");
-        foreach(Classroom classroom in classroomsJSON){
-            WriteLine($"{classroom.Group,-6} {classroom.ProfessorInGroup.Name,-10} {classroom.ProfessorInGroup.MiddleName,-12} {classroom.ProfessorInGroup.LastName,-12}");   
-        }
-        WriteLine("Press enter to continue");
-        ReadLine();
-        Clear();
+        GenerateReport("Division",professors);
         break;
     }
     case 5:{
-        //Subjects on XML file
-        List<string> sXML = new();
-        foreach(Professor p in professorsXMl){
-            if(p.Subject is not null)sXML.AddRange(p.Subject);
-        }
-        sXML.Sort();
-        //create another list that doesnt take duplicates
-        List<string> DistinctXML = sXML.Distinct().ToList();
-        WriteLine("Subjects in the XML file: ");
-        DistinctXML.ForEach(i => WriteLine("{0}\t", i));
-
-        //Subjects on JSON file
-        List<string> sJSON = new();
-        foreach(Professor p in professorsJSON){
-            if(p.Subject is not null)sJSON.AddRange(p.Subject);
-        }
-        sJSON.Sort();
-        //create another list that doesnt take duplicates
-        List<string> DistinctJSON = sJSON.Distinct().ToList();
-        WriteLine("\nSubjects in the JSON file: ");
-        DistinctJSON.ForEach(i => WriteLine("{0}\t", i));
-
-        WriteLine("Press enter to continue");
-        ReadLine();
-        Clear();
+        GenerateReport("Subjects",professors);
         break;
     }
     case 6:{
         break;
     }
 }
+
 break;
 }
 //login
 case 6:{
-Login();
+Login(storers);
 break;  
 }
 case 7:{
@@ -495,26 +419,79 @@ case 7:{
     break;
 }
 }
-
+}
 }
 
-bool ValidateGroup(string s){
+ static public void GenerateReport(string? Field, List<Professor>? professors)
+    {
+        if(professors == null)throw new ArgumentNullException("professors cannot be null");
+        if(Field == null)throw new ArgumentNullException("There must be a field specified");
+        OrderProfessors(Field, professors);
+        string JSONFileName = Combine("Files", $"Report_{Field}.json");
+        string XMLFileName = Combine("Files", $"Report_{Field}.xml");
+
+        var orderedProfessors = new List<Professor>(professors);
+
+        // Generate JSON Report
+        Newtonsoft.Json.JsonSerializer jss = new();
+        using (StreamWriter jsonStream = File.CreateText(JSONFileName))
+        {
+            jss.Serialize(jsonStream, orderedProfessors);
+        }
+        WriteLine($"JSON Report generated: {JSONFileName}");
+
+        // Generate XML report
+        XmlSerializer serializer = new XmlSerializer(typeof(List<Professor>));
+        using (TextWriter writer = new StreamWriter(XMLFileName))
+        {
+            serializer.Serialize(writer, orderedProfessors);
+        }
+
+        WriteLine($"XML Report generated: {XMLFileName}");
+    }
+
+
+static public void OrderProfessors(string Field, List<Professor> professors)
+    {
+        switch (Field)
+        {
+            case "Name":
+                professors.Sort((p1, p2) => p1.Name.CompareTo(p2.Name));
+                break;
+            case "Salary_Account":
+                professors.Sort((p1, p2) => p1.SalaryAccount.ToString().CompareTo(p2.SalaryAccount.ToString()));
+                break;
+            case "Password":
+                professors.Sort((p1, p2) => p1.Password.ToString().CompareTo(p2.Password.ToString()));
+                break;
+            case "Subjects":
+                professors.Sort((p1, p2) => p1.Subject[0].CompareTo(p2.Subject[0]));
+                break;
+            case "Division":
+                professors.Sort((p1, p2) => p1.Division.CompareTo(p2.Division));
+                break;
+        }
+    }
+
+static public bool ValidateGroup(string s){
     if(Regex.IsMatch(s, @"^[1-8][A-Z][1-2]$"))return true;
     else return false;
 }
 
-bool ValidateString(string s){
+static public bool ValidateString(string? s){
+ if(s == null)throw new ArgumentNullException("String cannot be null");
+ else if(s == "")throw new ArgumentException("String cannot be empty");
  if(Regex.IsMatch(s, @"^[A-Z]+$"))return true;
  return false;
 }
 
-bool ValidateSalaryAccount(string s){
+static public bool ValidateSalaryAccount(string s){
  if(Regex.IsMatch(s, @"^[0-9]+$"))return true;
  return false;
 }
 
 //check if professor exist
-bool ProfessorExist(string? s){
+static public bool ProfessorExist(string? s, List<Professor> professors){
 foreach(Professor p in professors){
     if(p.GetDecryptedSalaryAccount() == s){
         return true;
@@ -524,7 +501,14 @@ return false;
 }
 
 //edit Professor password
-void UpdateProfessorPassword(string SalaryAccToUpdate){
+static public void UpdateProfessorPassword(string SalaryAccToUpdate, List<Professor> professors, HashSet<Classroom> classrooms){
+    
+    //paths for XML & JSON Files
+    string ProfessorsPathXML = Combine(CurrentDirectory, "Files", "professors.xml");
+    string ProfessorsPathJSON = Combine(CurrentDirectory, "Files", "professors.json");
+    //paths for XML & JSON Files
+    string ClassroomsPathXML = Combine(CurrentDirectory, "Files", "classrooms.xml");
+    string ClassroomsPathJSON = Combine(CurrentDirectory, "Files", "classrooms.json");
     foreach(Professor p in professors){
     if(p.GetDecryptedSalaryAccount() == SalaryAccToUpdate){
         //insert Password
@@ -554,21 +538,29 @@ void UpdateProfessorPassword(string SalaryAccToUpdate){
         }
 
         //send classrooms to an XML file
-        SerializeClassroomsXML(ClassroomsPathXML);
+        SerializeClassroomsXML(ClassroomsPathXML, classrooms);
         //send classrooms to a JSON file
-        SerializeClassroomsJSON(ClassroomsPathJSON);
+        SerializeClassroomsJSON(ClassroomsPathJSON, classrooms);
 
         //send professors to an XML file
-        SerializeProfessorsXML(ProfessorsPathXML);
+        SerializeProfessorsXML(ProfessorsPathXML, professors);
         //send professors to a JSON file
-        SerializeProfessorsJSON(ProfessorsPathJSON);
+        SerializeProfessorsJSON(ProfessorsPathJSON, professors);
         break;
         }
     }
 }
 
 //edit professor
-void EditProfessor(string SalaryAccToEdit){
+static public void EditProfessor(string SalaryAccToEdit, List<Professor> professors, HashSet<Classroom> classrooms){
+//paths for XML & JSON Files
+string ProfessorsPathXML = Combine(CurrentDirectory, "Files", "professors.xml");
+string ProfessorsPathJSON = Combine(CurrentDirectory, "Files", "professors.json");
+//paths for XML & JSON Files
+string ClassroomsPathXML = Combine(CurrentDirectory, "Files", "classrooms.xml");
+string ClassroomsPathJSON = Combine(CurrentDirectory, "Files", "classrooms.json");
+//Professor variables
+string? ProfessorName, ProfessorMiddleName, ProfessorLastName, ProfessorPassword, SalaryAccount, Group; 
 //find if the account is in professors and if it is, delete it
 foreach(Professor p in professors){
     if(p.GetDecryptedSalaryAccount() == SalaryAccToEdit){
@@ -655,23 +647,23 @@ foreach(Professor p in professors){
         classrooms.Add(classroom);
 
         //send classrooms to an XML file
-        SerializeClassroomsXML(ClassroomsPathXML);
+        SerializeClassroomsXML(ClassroomsPathXML, classrooms);
         //send classrooms to a JSON file
-        SerializeClassroomsJSON(ClassroomsPathJSON);
+        SerializeClassroomsJSON(ClassroomsPathJSON, classrooms);
 
         //send professors to an XML file
-        SerializeProfessorsXML(ProfessorsPathXML);
+        SerializeProfessorsXML(ProfessorsPathXML, professors);
         //send professors to a JSON file
-        SerializeProfessorsJSON(ProfessorsPathJSON);
+        SerializeProfessorsJSON(ProfessorsPathJSON, professors);
         break;
         }
     }
 }
 
 //delete professor
-void DeleteProfessor(string SalaryAccToDelete){
+static public void DeleteProfessor(string SalaryAccToDelete, List<Professor> professors, HashSet<Classroom> classrooms){
 //find if the account is in professors and if it is, delete it
-foreach(Professor p in professors){
+foreach(Professor p in professors.ToList()){
     if(p.GetDecryptedSalaryAccount() == SalaryAccToDelete){
         WriteLine($"Professor {p.Name} {p.MiddleName} {p.LastName} with the following salary account {p.GetDecryptedSalaryAccount()} deleted succesfully.");
         professors.Remove(p);
@@ -687,7 +679,7 @@ foreach(Professor p in professors){
 
 #region Classroom Files
 //Serialize XML
-void SerializeClassroomsXML(string path){
+static public void SerializeClassroomsXML(string path,  HashSet<Classroom> classrooms){
     XmlSerializer xs = new(type: classrooms.GetType());
     using (FileStream stream = File.Create(path))
     {
@@ -696,7 +688,7 @@ void SerializeClassroomsXML(string path){
 }
 
 //Deserialize XML
-HashSet<Classroom> DeserializeClassroomsXML(string path){
+static public HashSet<Classroom> DeserializeClassroomsXML(string path,  HashSet<Classroom> classrooms){
     XmlSerializer xs = new(type: classrooms.GetType());
     using (FileStream xmlLoad = File.Open(path, FileMode.Open))
     {
@@ -706,7 +698,7 @@ HashSet<Classroom> DeserializeClassroomsXML(string path){
 }
 
 //Serialize JSON
-void SerializeClassroomsJSON(string path){
+static public void SerializeClassroomsJSON(string path , HashSet<Classroom> classrooms){
     Newtonsoft.Json.JsonSerializer jss = new();
     using (StreamWriter jsonStream = File.CreateText(path))
     {
@@ -715,7 +707,7 @@ void SerializeClassroomsJSON(string path){
 }
 
 //Deserialize JSON
-HashSet<Classroom> DeserializeClassroomsJSON(string path)
+static public HashSet<Classroom> DeserializeClassroomsJSON(string path)
 {
     using (FileStream jsonLoad = File.Open(path, FileMode.Open))
     {
@@ -729,7 +721,7 @@ HashSet<Classroom> DeserializeClassroomsJSON(string path)
 #region Professor Files
 //professor files
 //Serialize XML
-void SerializeProfessorsXML(string path){
+static public void SerializeProfessorsXML(string path, List<Professor> professors){
     XmlSerializer xs = new(type: professors.GetType());
     using (FileStream stream = File.Create(path))
     {
@@ -739,17 +731,17 @@ void SerializeProfessorsXML(string path){
 
 
 //Deserialize XML
-HashSet<Professor> DeserializeProfessorsXML(string path){
+static public List<Professor> DeserializeProfessorsXML(string path, List<Professor> professors){
     XmlSerializer xs = new(type: professors.GetType());
     using (FileStream xmlLoad = File.Open(path, FileMode.Open))
     {
-        HashSet<Professor> professors1 = xs.Deserialize(xmlLoad) as HashSet<Professor>;
+        List<Professor> professors1 = xs.Deserialize(xmlLoad) as List<Professor>;
         return professors1;
     }
 }
 
 //Serialize JSON
-void SerializeProfessorsJSON(string path){
+static public void SerializeProfessorsJSON(string path, List<Professor> professors){
     Newtonsoft.Json.JsonSerializer jss = new();
     using (StreamWriter jsonStream = File.CreateText(path))
     {
@@ -758,12 +750,12 @@ void SerializeProfessorsJSON(string path){
 }
 
 //Deserialize JSON
-HashSet<Professor> DeserializeProfessorsJSON(string path)
+static public List<Professor> DeserializeProfessorsJSON(string path)
 {
     using (FileStream jsonLoad = File.Open(path, FileMode.Open))
     {
-        var professors = System.Text.Json.JsonSerializer.Deserialize<HashSet<Professor>>(utf8Json: jsonLoad);
-        return professors ?? new HashSet<Professor>();
+        var professors = System.Text.Json.JsonSerializer.Deserialize<List<Professor>>(utf8Json: jsonLoad);
+        return professors ?? new List<Professor>();
     }
 }
 
@@ -771,7 +763,7 @@ HashSet<Professor> DeserializeProfessorsJSON(string path)
 
 #region Storer Files
     //Serialize JSON
-    void SerializeStorerJSON(string path){
+    static public void SerializeStorerJSON(string path,List<Storer> storers){
     Newtonsoft.Json.JsonSerializer jss = new();
     using (StreamWriter jsonStream = File.CreateText(path))
     {
@@ -780,7 +772,7 @@ HashSet<Professor> DeserializeProfessorsJSON(string path)
     }
 
 //Serialize XML
-void SerializeStorerXML(string path){
+static public void SerializeStorerXML(string path, List<Storer> storers){
     XmlSerializer xs = new(type: storers.GetType());
     using (FileStream stream = File.Create(path))
     {
@@ -789,7 +781,7 @@ void SerializeStorerXML(string path){
 }
 
     //Deserialize XML
-    List<Storer> DeserializeStorerXML(string path){
+    static public List<Storer> DeserializeStorerXML(string path, List<Storer> storers){
     XmlSerializer xs = new(type: storers.GetType());
     using (FileStream xmlLoad = File.Open(path, FileMode.Open))
     {
@@ -802,7 +794,9 @@ void SerializeStorerXML(string path){
 #endregion
 
 //login
-void Login(){
+static public void Login(List<Storer> storers){
+
+string? StorerName, StorerMiddleName, StorerLastName, StorerPassword;
 bool StorerExist;
 //register storer name
 do{
@@ -812,7 +806,7 @@ WriteLine("Introduce your middle name: ");
 StorerMiddleName = ReadLine();
 WriteLine("Introduce your last name: " );
 StorerLastName = ReadLine();
-StorerExist = CheckIfStorerExist(StorerName,StorerMiddleName,StorerLastName);
+StorerExist = CheckIfStorerExist(StorerName,StorerMiddleName,StorerLastName, storers);
 Clear();
 //check if the given name is a storer, if not repeat the process
 WriteLine("That Name doesn't exist.");
@@ -822,10 +816,10 @@ Clear();
 WriteLine("Introduce your password:");
 StorerPassword = ReadLine();
 Clear();
-CheckIfPassword(StorerName,StorerMiddleName,StorerLastName,StorerPassword);
+CheckIfPassword(StorerName,StorerMiddleName,StorerLastName,StorerPassword, storers);
 }
 
-bool CheckIfStorerExist(string? Name, string? MiddleName, string? LastName){
+static public bool CheckIfStorerExist(string? Name, string? MiddleName, string? LastName, List<Storer> storers){
 foreach(Storer s in storers){
     if(Name.ToLower() == s.Name.ToLower() && MiddleName.ToLower() == s.MiddleName.ToLower() && LastName.ToLower() == s.LastName.ToLower()){  
         return true;
@@ -834,7 +828,7 @@ foreach(Storer s in storers){
 return false;
 }
 
-bool CheckIfPassword(string? Name, string? MiddleName, string? LastName, string? Password){
+static public bool CheckIfPassword(string? Name, string? MiddleName, string? LastName, string? Password,List<Storer> storers){
 foreach(Storer s in storers){
     if(Name.ToLower() == s.Name.ToLower() && MiddleName.ToLower() == s.MiddleName.ToLower() && LastName.ToLower() == s.LastName.ToLower()){  
         while(Password != s.GetDecryptedPassword()){
@@ -846,4 +840,6 @@ foreach(Storer s in storers){
     }
 }
 return false;
+}
+
 }
