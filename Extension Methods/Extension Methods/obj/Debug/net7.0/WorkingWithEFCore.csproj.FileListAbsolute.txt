@@ -1,0 +1,325 @@
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/WorkingWithEFCore
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/WorkingWithEFCore.deps.json
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/WorkingWithEFCore.runtimeconfig.json
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/WorkingWithEFCore.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/WorkingWithEFCore.pdb
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/obj/Debug/net7.0/WorkingWithEFCore.csproj.AssemblyReference.cache
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/obj/Debug/net7.0/WorkingWithEFCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/obj/Debug/net7.0/WorkingWithEFCore.AssemblyInfoInputs.cache
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/obj/Debug/net7.0/WorkingWithEFCore.AssemblyInfo.cs
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/obj/Debug/net7.0/WorkingWithEFCore.csproj.CoreCompileInputs.cache
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/obj/Debug/net7.0/WorkingWithEFCore.csproj.CopyComplete
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/obj/Debug/net7.0/WorkingWithEFCore.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/obj/Debug/net7.0/refint/WorkingWithEFCore.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/obj/Debug/net7.0/WorkingWithEFCore.pdb
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/obj/Debug/net7.0/WorkingWithEFCore.genruntimeconfig.cache
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/obj/Debug/net7.0/ref/WorkingWithEFCore.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Humanizer.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/System.CodeDom.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/WorkingWithEFCore
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/WorkingWithEFCore.deps.json
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/WorkingWithEFCore.runtimeconfig.json
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/WorkingWithEFCore.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/WorkingWithEFCore.pdb
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Humanizer.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/System.CodeDom.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/obj/Debug/net7.0/WorkingWithEFCore.csproj.AssemblyReference.cache
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/obj/Debug/net7.0/WorkingWithEFCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/obj/Debug/net7.0/WorkingWithEFCore.AssemblyInfoInputs.cache
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/obj/Debug/net7.0/WorkingWithEFCore.AssemblyInfo.cs
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/obj/Debug/net7.0/WorkingWithEFCore.csproj.CoreCompileInputs.cache
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/obj/Debug/net7.0/WorkingWithEFCore.csproj.CopyComplete
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/obj/Debug/net7.0/WorkingWithEFCore.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/obj/Debug/net7.0/refint/WorkingWithEFCore.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/obj/Debug/net7.0/WorkingWithEFCore.pdb
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/obj/Debug/net7.0/WorkingWithEFCore.genruntimeconfig.cache
+/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/obj/Debug/net7.0/ref/WorkingWithEFCore.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Castle.Core.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Proxies.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/System.Diagnostics.EventLog.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\WorkingWithEFCore.exe
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\WorkingWithEFCore.deps.json
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\WorkingWithEFCore.runtimeconfig.json
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\WorkingWithEFCore.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\WorkingWithEFCore.pdb
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\obj\Debug\net7.0\WorkingWithEFCore.csproj.AssemblyReference.cache
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\obj\Debug\net7.0\WorkingWithEFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\obj\Debug\net7.0\WorkingWithEFCore.AssemblyInfoInputs.cache
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\obj\Debug\net7.0\WorkingWithEFCore.AssemblyInfo.cs
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\obj\Debug\net7.0\WorkingWithEFCore.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\obj\Debug\net7.0\WorkingWithEFCore.csproj.CopyComplete
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\obj\Debug\net7.0\WorkingWithEFCore.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\obj\Debug\net7.0\refint\WorkingWithEFCore.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\obj\Debug\net7.0\WorkingWithEFCore.pdb
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\obj\Debug\net7.0\WorkingWithEFCore.genruntimeconfig.cache
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\WorkingWithEFCore\obj\Debug\net7.0\ref\WorkingWithEFCore.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\WorkingWithEFCore.exe
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\WorkingWithEFCore.deps.json
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\WorkingWithEFCore.runtimeconfig.json
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\WorkingWithEFCore.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\WorkingWithEFCore.pdb
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\obj\Debug\net7.0\WorkingWithEFCore.csproj.AssemblyReference.cache
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\obj\Debug\net7.0\WorkingWithEFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\obj\Debug\net7.0\WorkingWithEFCore.AssemblyInfoInputs.cache
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\obj\Debug\net7.0\WorkingWithEFCore.AssemblyInfo.cs
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\obj\Debug\net7.0\WorkingWithEFCore.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\obj\Debug\net7.0\WorkingWithEFCore.csproj.CopyComplete
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\obj\Debug\net7.0\WorkingWithEFCore.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\obj\Debug\net7.0\refint\WorkingWithEFCore.dll
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\obj\Debug\net7.0\WorkingWithEFCore.pdb
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\obj\Debug\net7.0\WorkingWithEFCore.genruntimeconfig.cache
+C:\Users\Jorge\Desktop\repo original\PA17FAgo-Dic2023\2P\Extension Methods\obj\Debug\net7.0\ref\WorkingWithEFCore.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\WorkingWithEFCore.exe
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\WorkingWithEFCore.deps.json
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\WorkingWithEFCore.runtimeconfig.json
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\WorkingWithEFCore.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\WorkingWithEFCore.pdb
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\Humanizer.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\obj\Debug\net7.0\WorkingWithEFCore.csproj.AssemblyReference.cache
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\obj\Debug\net7.0\WorkingWithEFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\obj\Debug\net7.0\WorkingWithEFCore.AssemblyInfoInputs.cache
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\obj\Debug\net7.0\WorkingWithEFCore.AssemblyInfo.cs
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\obj\Debug\net7.0\WorkingWithEFCore.csproj.CoreCompileInputs.cache
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\obj\Debug\net7.0\WorkingWithEFCore.csproj.CopyComplete
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\obj\Debug\net7.0\WorkingWithEFCore.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\obj\Debug\net7.0\refint\WorkingWithEFCore.dll
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\obj\Debug\net7.0\WorkingWithEFCore.pdb
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\obj\Debug\net7.0\WorkingWithEFCore.genruntimeconfig.cache
+C:\Users\BRUNO\Documents\PA17F1\Extension Methods\Extension Methods\obj\Debug\net7.0\ref\WorkingWithEFCore.dll

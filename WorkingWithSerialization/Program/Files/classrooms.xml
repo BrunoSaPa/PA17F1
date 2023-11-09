@@ -40,4 +40,24 @@
       </Subject>
     </Professor>
   </Classroom>
+  <Classroom group="7D1">
+    <Professor fname="A" mname="A" lname="A" password="OsYvX+IhjjGM2gVo/5Q7NQ==" salaryacc="I0J47K06ILIZVnpLXpnRDA==" division="Desarrollo de Software">
+      <Subject />
+    </Professor>
+  </Classroom>
+  <Classroom group="1D1">
+    <Professor fname="A" mname="A" lname="A" password="OsYvX+IhjjGM2gVo/5Q7NQ==" salaryacc="I0J47K06ILIZVnpLXpnRDA==" division="Desarrollo de Software">
+      <Subject>
+        <string>DES DE SOFT 1</string>
+      </Subject>
+    </Professor>
+  </Classroom>
+  <Classroom group="8F1">
+    <Professor fname="BRUNO" mname="SANCHEZ" lname="PADILLA" password="Ru8ccgVfUNFaFM4dzWNNWg==" salaryacc="ykpmkHMemzxcY7Q/MLGAvg==" division="Desarrollo de Software">
+      <Subject>
+        <string>A</string>
+        <string>B</string>
+      </Subject>
+    </Professor>
+  </Classroom>
 </ArrayOfClassroom>

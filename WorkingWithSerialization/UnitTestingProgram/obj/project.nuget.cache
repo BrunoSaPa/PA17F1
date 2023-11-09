@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g6SgFEmYgGiy3i+AzwXk/vObEEpNkLLDlhME6xFHDbAeBqvZuk5GOF7qCAjWbP+PvI6OIn+1kNL8AtiW8vMd9A==",
+  "dgSpecHash": "RfQ+VZPOXHtwqgvxnugw+mdk6EBFbTxljQ/nKGErf8+stPXloTEFLAm5rvutGyOZe99dY+6EfsiM/BoJBd97rQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\WorkingWithSerialization\\UnitTestingProgram\\UnitTestingProgram.csproj",
+  "projectFilePath": "C:\\Users\\BRUNO\\Documents\\PA17F1\\WorkingWithSerialization\\UnitTestingProgram\\UnitTestingProgram.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BRUNO\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\BRUNO\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",

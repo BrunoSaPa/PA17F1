@@ -76,11 +76,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\WorkingWithSerialization\\Program\\Program.csproj",
+      "projectUniqueName": "C:\\Users\\BRUNO\\Documents\\PA17F1\\WorkingWithSerialization\\Program\\Program.csproj",
       "projectName": "Program",
-      "projectPath": "C:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\WorkingWithSerialization\\Program\\Program.csproj",
+      "projectPath": "C:\\Users\\BRUNO\\Documents\\PA17F1\\WorkingWithSerialization\\Program\\Program.csproj",
       "packagesPath": "C:\\Users\\BRUNO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\WorkingWithSerialization\\Program\\obj\\",
+      "outputPath": "C:\\Users\\BRUNO\\Documents\\PA17F1\\WorkingWithSerialization\\Program\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BRUNO\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -95,8 +95,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\WorkingWithSerialization\\Library\\Library.csproj": {
-              "projectPath": "C:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\WorkingWithSerialization\\Library\\Library.csproj"
+            "C:\\Users\\BRUNO\\Documents\\PA17F1\\WorkingWithSerialization\\Library\\Library.csproj": {
+              "projectPath": "C:\\Users\\BRUNO\\Documents\\PA17F1\\WorkingWithSerialization\\Library\\Library.csproj"
             }
           }
         }

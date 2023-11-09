@@ -7,11 +7,15 @@
       <string>C</string>
     </Subject>
   </Professor>
-  <Professor fname="LOLA" mname="BUNNY" lname="DN" password="oeyn9p741AUuqNjUSSUpgw==" salaryacc="MjoN9GlWMa9AzurbFBPUTg==" division="Desarrollo de Software">
+  <Professor fname="BRUNO" mname="SANCHEZ" lname="PADILLA" password="Ru8ccgVfUNFaFM4dzWNNWg==" salaryacc="ykpmkHMemzxcY7Q/MLGAvg==" division="Desarrollo de Software">
+    <Subject>
+      <string>A</string>
+      <string>B</string>
+    </Subject>
+  </Professor>
+  <Professor fname="SPEEDY" mname="GONZALES" lname="LOPEZ" password="97SDL1FtyYRuTfmeS2vMWw==" salaryacc="AdCoUeKB+z/4cMXzxJ7Vag==" division="Desarrollo de Software">
     <Subject>
       <string>DES DE SOFT 1</string>
-      <string>EMBEBIDOS 2</string>
-      <string>WEB 1</string>
     </Subject>
   </Professor>
   <Professor fname="PEDRO" mname="PICA" lname="PIEDRAS" password="ovar4wSbrk/s2DuDCxRMFw==" salaryacc="QGjZvDQd8Qbs0Bt1JbK89A==" division="Desarrollo de Software">
@@ -20,14 +24,16 @@
       <string>EMBEBIDOS 2</string>
     </Subject>
   </Professor>
-  <Professor fname="SPEEDY" mname="GONZALES" lname="LOPEZ" password="97SDL1FtyYRuTfmeS2vMWw==" salaryacc="AdCoUeKB+z/4cMXzxJ7Vag==" division="Desarrollo de Software">
+  <Professor fname="LOLA" mname="BUNNY" lname="DN" password="oeyn9p741AUuqNjUSSUpgw==" salaryacc="MjoN9GlWMa9AzurbFBPUTg==" division="Desarrollo de Software">
     <Subject>
       <string>DES DE SOFT 1</string>
+      <string>EMBEBIDOS 2</string>
+      <string>WEB 1</string>
     </Subject>
   </Professor>
-  <Professor fname="PIMPOLLO" mname="ESMERALDO" lname="PANUCO" password="8tnC75sHhD9+loEJSVkWYw==" salaryacc="fXledh1Yf/QPNs/ZIKy4Ow==" division="Desarrollo de Software">
+  <Professor fname="A" mname="A" lname="A" password="OsYvX+IhjjGM2gVo/5Q7NQ==" salaryacc="I0J47K06ILIZVnpLXpnRDA==" division="Desarrollo de Software">
     <Subject>
-      <string>PAPIROAS</string>
+      <string>DES DE SOFT 1</string>
     </Subject>
   </Professor>
 </ArrayOfProfessor>

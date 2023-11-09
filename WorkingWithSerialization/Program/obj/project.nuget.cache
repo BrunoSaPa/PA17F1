@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3QDw+8Im0zYPsCZ4AlQ5NAN+7Vj3LotigJyRU2mEAWxOaYN4VL6cJ2LXgyPijg9eAK6c+k/3bR1vIyb1tckRHQ==",
+  "dgSpecHash": "zFvfIzlA90RGp2kuyq8hfqPIDxnYBYz54kOPn2emmLdT8sXSpCg2O6RjaP+19gf8e3EuYqw2VpJ4oJ6qzIgYVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\WorkingWithSerialization\\Program\\Program.csproj",
+  "projectFilePath": "C:\\Users\\BRUNO\\Documents\\PA17F1\\WorkingWithSerialization\\Program\\Program.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BRUNO\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

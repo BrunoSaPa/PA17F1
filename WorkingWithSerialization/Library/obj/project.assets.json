@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\WorkingWithSerialization\\Library\\Library.csproj",
+      "projectUniqueName": "C:\\Users\\BRUNO\\Documents\\PA17F1\\WorkingWithSerialization\\Library\\Library.csproj",
       "projectName": "Library",
-      "projectPath": "C:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\WorkingWithSerialization\\Library\\Library.csproj",
+      "projectPath": "C:\\Users\\BRUNO\\Documents\\PA17F1\\WorkingWithSerialization\\Library\\Library.csproj",
       "packagesPath": "C:\\Users\\BRUNO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BRUNO\\Documents\\PA17F1\\PA17F1\\WorkingWithSerialization\\Library\\obj\\",
+      "outputPath": "C:\\Users\\BRUNO\\Documents\\PA17F1\\WorkingWithSerialization\\Library\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BRUNO\\AppData\\Roaming\\NuGet\\NuGet.Config"
