@@ -1,0 +1,28 @@
+C:\Users\BRUNO\Documents\web on c#\Northwind.Common.EntityModels.Sqlite\bin\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.deps.json
+C:\Users\BRUNO\Documents\web on c#\Northwind.Common.EntityModels.Sqlite\bin\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.runtimeconfig.json
+C:\Users\BRUNO\Documents\web on c#\Northwind.Common.EntityModels.Sqlite\bin\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.dll
+C:\Users\BRUNO\Documents\web on c#\Northwind.Common.EntityModels.Sqlite\bin\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.pdb
+C:\Users\BRUNO\Documents\web on c#\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.csproj.AssemblyReference.cache
+C:\Users\BRUNO\Documents\web on c#\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRUNO\Documents\web on c#\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.AssemblyInfoInputs.cache
+C:\Users\BRUNO\Documents\web on c#\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.AssemblyInfo.cs
+C:\Users\BRUNO\Documents\web on c#\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.csproj.CoreCompileInputs.cache
+C:\Users\BRUNO\Documents\web on c#\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.dll
+C:\Users\BRUNO\Documents\web on c#\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\refint\Northwind.Common.EntityModels.Sqlite.dll
+C:\Users\BRUNO\Documents\web on c#\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.pdb
+C:\Users\BRUNO\Documents\web on c#\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.genruntimeconfig.cache
+C:\Users\BRUNO\Documents\web on c#\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\ref\Northwind.Common.EntityModels.Sqlite.dll
+C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.EntityModels.Sqlite\bin\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.deps.json
+C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.EntityModels.Sqlite\bin\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.runtimeconfig.json
+C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.EntityModels.Sqlite\bin\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.dll
+C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.EntityModels.Sqlite\bin\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.pdb
+C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.csproj.AssemblyReference.cache
+C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.AssemblyInfoInputs.cache
+C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.AssemblyInfo.cs
+C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.csproj.CoreCompileInputs.cache
+C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.dll
+C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\refint\Northwind.Common.EntityModels.Sqlite.dll
+C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.pdb
+C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.genruntimeconfig.cache
+C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\ref\Northwind.Common.EntityModels.Sqlite.dll

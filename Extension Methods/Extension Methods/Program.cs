@@ -11,9 +11,6 @@ namespace WorkingWithEFCore
             {
                 var products = db.Products;
 
-
-
-  
                 #region SupplierID
                 double meanIdSup = products.CalculateMean(p => (int)p.SupplierId);
                 double medianIdSup = products.CalculateMedian(p => (int)p.SupplierId);
@@ -87,7 +84,6 @@ namespace WorkingWithEFCore
                 "Cost", meanCost, medianCost,ListModeCost);
                 #endregion
 
-
                 #region Stock
                 double meanStock = products.CalculateMean(p => (double)p.Stock);
                 double medianStock = products.CalculateMedian(p => (double)p.Stock);
@@ -104,7 +100,6 @@ namespace WorkingWithEFCore
                 WriteLine("| {0,-15} | {1,-8:0.00} | {2,-8:0.00} | {3}",
                 "Stock", meanStock, medianStock,ListModeStock);
                 #endregion
-
 
                 #region UnitsonOrder
                 double meanUnitsInOrder = products.CalculateMean(p => (double)p.UnitsOnOrder);

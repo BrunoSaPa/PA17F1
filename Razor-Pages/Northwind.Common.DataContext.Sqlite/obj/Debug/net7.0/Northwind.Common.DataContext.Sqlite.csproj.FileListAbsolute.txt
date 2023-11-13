@@ -1,0 +1,30 @@
+C:\Users\BRUNO\Documents\web on c#\Northwind.Common.DataContext.Sqlite\bin\Debug\net7.0\Northwind.Common.DataContext.Sqlite.deps.json
+C:\Users\BRUNO\Documents\web on c#\Northwind.Common.DataContext.Sqlite\bin\Debug\net7.0\Northwind.Common.DataContext.Sqlite.dll
+C:\Users\BRUNO\Documents\web on c#\Northwind.Common.DataContext.Sqlite\bin\Debug\net7.0\Northwind.Common.DataContext.Sqlite.pdb
+C:\Users\BRUNO\Documents\web on c#\Northwind.Common.DataContext.Sqlite\bin\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.dll
+C:\Users\BRUNO\Documents\web on c#\Northwind.Common.DataContext.Sqlite\bin\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.pdb
+C:\Users\BRUNO\Documents\web on c#\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwind.Common.DataContext.Sqlite.csproj.AssemblyReference.cache
+C:\Users\BRUNO\Documents\web on c#\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwind.Common.DataContext.Sqlite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRUNO\Documents\web on c#\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwind.Common.DataContext.Sqlite.AssemblyInfoInputs.cache
+C:\Users\BRUNO\Documents\web on c#\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwind.Common.DataContext.Sqlite.AssemblyInfo.cs
+C:\Users\BRUNO\Documents\web on c#\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwind.Common.DataContext.Sqlite.csproj.CoreCompileInputs.cache
+C:\Users\BRUNO\Documents\web on c#\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwind.Common.DataContext.Sqlite.csproj.CopyComplete
+C:\Users\BRUNO\Documents\web on c#\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwind.Common.DataContext.Sqlite.dll
+C:\Users\BRUNO\Documents\web on c#\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\refint\Northwind.Common.DataContext.Sqlite.dll
+C:\Users\BRUNO\Documents\web on c#\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwind.Common.DataContext.Sqlite.pdb
+C:\Users\BRUNO\Documents\web on c#\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\ref\Northwind.Common.DataContext.Sqlite.dll
+C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.DataContext.Sqlite\bin\Debug\net7.0\Northwind.Common.DataContext.Sqlite.deps.json
+C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.DataContext.Sqlite\bin\Debug\net7.0\Northwind.Common.DataContext.Sqlite.dll
+C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.DataContext.Sqlite\bin\Debug\net7.0\Northwind.Common.DataContext.Sqlite.pdb
+C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.DataContext.Sqlite\bin\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.dll
+C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.DataContext.Sqlite\bin\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.pdb
+C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwind.Common.DataContext.Sqlite.csproj.AssemblyReference.cache
+C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwind.Common.DataContext.Sqlite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwind.Common.DataContext.Sqlite.AssemblyInfoInputs.cache
+C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwind.Common.DataContext.Sqlite.AssemblyInfo.cs
+C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwind.Common.DataContext.Sqlite.csproj.CoreCompileInputs.cache
+C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwind.Common.DataContext.Sqlite.csproj.CopyComplete
+C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwind.Common.DataContext.Sqlite.dll
+C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\refint\Northwind.Common.DataContext.Sqlite.dll
+C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwind.Common.DataContext.Sqlite.pdb
+C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\ref\Northwind.Common.DataContext.Sqlite.dll
