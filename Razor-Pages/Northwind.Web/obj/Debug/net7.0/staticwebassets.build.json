@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mfWJA/n0Xro/c2ghVefhJnzULKywuNYFiYoqqmY+TzQ=",
+  "Hash": "air3yynQeIJ7+rPyf70ULAB+OIrO1/x9iVEncuzVnPY=",
   "Source": "Northwind.Web",
   "BasePath": "_content/Northwind.Web",
   "Mode": "Default",
@@ -15,5 +15,23 @@
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\BRUNO\\Documents\\PA17F1\\Razor-Pages\\Northwind.Web\\wwwroot\\.gitkeep",
+      "SourceId": "Northwind.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\BRUNO\\Documents\\PA17F1\\Razor-Pages\\Northwind.Web\\wwwroot\\",
+      "BasePath": "_content/Northwind.Web",
+      "RelativePath": ".gitkeep",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\.gitkeep"
+    }
+  ]
 }

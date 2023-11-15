@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\BRUNO\\Documents\\web on c#\\Northwind.Web\\wwwroot\\index.html",
-      "PackagePath": "staticwebassets\\index.html"
+      "Id": "C:\\Users\\BRUNO\\Documents\\PA17F1\\Razor-Pages\\Northwind.Web\\wwwroot\\.gitkeep",
+      "PackagePath": "staticwebassets\\.gitkeep"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Northwind.Web.Microsoft.AspNetCore.StaticWebAssets.props",
