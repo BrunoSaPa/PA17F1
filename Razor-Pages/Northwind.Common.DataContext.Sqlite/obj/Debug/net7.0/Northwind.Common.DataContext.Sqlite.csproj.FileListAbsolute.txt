@@ -28,3 +28,4 @@ C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.DataContext.Sqlite\
 C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\refint\Northwind.Common.DataContext.Sqlite.dll
 C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwind.Common.DataContext.Sqlite.pdb
 C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\ref\Northwind.Common.DataContext.Sqlite.dll
+C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwind.Common.DataContext.Sqlite.sourcelink.json

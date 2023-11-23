@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YkvopGL8eOvxMloGX80fAmUl72VPQB/a90VCJ04XjblUKDSVlw/1wpvVE+TJUoYYCbFQ6GE1xD1DYy5WuupivA==",
+  "dgSpecHash": "lM7hjVqlFOGE1aidHkx4wemzGpDyhrDMZvP0Nx1g+UEMTP6t7aPrySDFCGk+FFM+hEGTtgHX64T6mvesHmr3Ug==",
   "success": true,
   "projectFilePath": "C:\\Users\\BRUNO\\Documents\\PA17F1\\Razor-Pages\\Northwind.Common.EntityModels.Sqlite\\Northwind.Common.EntityModels.Sqlite.csproj",
   "expectedPackageFiles": [
@@ -31,7 +31,10 @@
     "C:\\Users\\BRUNO\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\BRUNO\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\BRUNO\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\BRUNO\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+    "C:\\Users\\BRUNO\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\BRUNO\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\BRUNO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\BRUNO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
   ],
   "logs": []
 }

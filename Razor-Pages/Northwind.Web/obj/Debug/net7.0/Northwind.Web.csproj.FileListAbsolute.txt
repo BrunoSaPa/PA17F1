@@ -210,3 +210,4 @@ C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Web\obj\Debug\net7.0\refin
 C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Web\obj\Debug\net7.0\Northwind.Web.pdb
 C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Web\obj\Debug\net7.0\Northwind.Web.genruntimeconfig.cache
 C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Web\obj\Debug\net7.0\ref\Northwind.Web.dll
+C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Web\obj\Debug\net7.0\Northwind.Web.sourcelink.json

@@ -46,12 +46,12 @@
     <form method="post"  asp-page-handler="Add">
         <div class="mb-3">
             <label for="Category_CategoryName" class="form-label">Category Name</label>
-            <input name="Category_CategoryName" type="text" class="form-control">
+            <input name="Category_CategoryName" type="text" class="form-control" required>
         </div>
 
         <div class="mb-3">
             <label for="Category_Description" class="form-label">Description</label>
-            <input name="Category_Description" type="text"  class="form-control">
+            <input name="Category_Description" type="text"  class="form-control" required>
         </div>
         <button type="submit" class="btn btn-primary" >Agregar</button>
     </form>

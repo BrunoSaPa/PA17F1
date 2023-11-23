@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "air3yynQeIJ7+rPyf70ULAB+OIrO1/x9iVEncuzVnPY=",
+  "Hash": "OE2/WlduxWK1Ap+TMe+n5IIyJrjOUUls+Wa7hI7oy30=",
   "Source": "Northwind.Web",
   "BasePath": "_content/Northwind.Web",
   "Mode": "Default",
@@ -26,6 +26,8 @@
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",

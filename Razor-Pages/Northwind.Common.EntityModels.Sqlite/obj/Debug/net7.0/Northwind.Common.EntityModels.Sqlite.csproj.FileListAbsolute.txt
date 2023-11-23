@@ -26,3 +26,4 @@ C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.EntityModels.Sqlite
 C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.pdb
 C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.genruntimeconfig.cache
 C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\ref\Northwind.Common.EntityModels.Sqlite.dll
+C:\Users\BRUNO\Documents\PA17F1\Razor-Pages\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.sourcelink.json

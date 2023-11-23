@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "r5iN6ApfN3SVkDX0lM4t43+jXR91yHdd9lgmCjvsBDBZ+g1RfEhTE7F97DRjSj3LKLIKtVip24rcRqKjmnEu3Q==",
+  "dgSpecHash": "fj/DFnrPtqMwFAxTP4q9r88bcTmuB9AM9qE71QT2TW4BpnKijOcAc9xwBnguHdFAAEBgXz8NsqmEvrrZPqFkYQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\BRUNO\\Documents\\PA17F1\\Razor-Pages\\Northwind.Web\\Northwind.Web.csproj",
   "expectedPackageFiles": [
@@ -34,7 +34,11 @@
     "C:\\Users\\BRUNO\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
     "C:\\Users\\BRUNO\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\BRUNO\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\BRUNO\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+    "C:\\Users\\BRUNO\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\BRUNO\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\BRUNO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\BRUNO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\BRUNO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
   ],
   "logs": []
 }
